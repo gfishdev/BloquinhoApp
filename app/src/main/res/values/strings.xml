@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BloquinhoApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="btLogin">Login</string>
+    <string-array name="match_types">
+        <item>-- type --</item>
+        <item>Any</item>
+        <item>Herb</item>
+        <item>Hetero</item>
+        <item>LGBT</item>
+        <item>Family</item>
+        <item>Unknown</item>
+    </string-array>
+    <string name="title_activity_main_teste">MainTesteActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_about">about</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bloco">Bloco</string>
+    <string name="day">Day</string>
+    <string name="style">style</string>
+</resources>
